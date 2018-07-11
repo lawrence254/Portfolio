@@ -54,6 +54,11 @@ html,body{
     width: 60%;
     margin: auto;
 }
+.con{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: #EBECEE;
+}
 .contact{
     width: 60%;
     margin: auto;
