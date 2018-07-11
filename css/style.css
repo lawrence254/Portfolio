@@ -1,0 +1,70 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+.welcome{
+    background: #ffffff;
+    height: 100%;
+}
+.intro{
+    height: 100%;
+    width: 100%;
+}
+.image{
+    margin-top: 10%;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-image: url('../img/pers.jpg');
+    background-size: cover;
+}
+.name{
+    text-align: center;
+    margin-top:2%;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.tags{
+    text-align: center;
+    margin-top: 1%;
+    font-weight: normal;
+}
+.social{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
+.fab{
+    color: #0F41D8;
+}
+.projects{
+    background: #EBECEE;
+    padding: 3%;
+    margin-top: 3%;
+    text-align: center;
+    font-weight: bold;
+}
+.skills{
+    padding: 3%;
+    margin-top: 3%;
+    text-align: center;
+    font-weight: bold;
+}
+.my-skill{
+    width: 60%;
+    margin: auto;
+}
+.contact{
+    width: 60%;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+}
+.contact p{
+    font-weight: lighter;
+}
+.email{
+    font-weight: normal;
+    text-align: left;
+    margin:auto;
+}
