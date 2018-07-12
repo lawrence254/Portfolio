@@ -34,6 +34,14 @@ html,body{
     margin-top: 2%;
     margin-bottom: 10%;
 }
+.desccontainer{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 2%;
+    padding-left: 2%;
+    margin: auto;
+    text-align: center;
+}
 .fab{
     color: #0F41D8;
 }
