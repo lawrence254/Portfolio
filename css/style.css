@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One|Raleway|Righteous');
 html,body{
     padding: 0;
+    font-family: 'Raleway', sans-serif;
     margin: 0;
 }
 .welcome{
@@ -11,7 +13,7 @@ html,body{
     width: 100%;
 }
 .image{
-    margin-top: 15%;
+    margin-top: 14%;
     height: 150px;
     width: 150px;
     border-radius: 50%;
@@ -23,11 +25,14 @@ html,body{
     margin-top:2%;
     font-size: 1.5rem;
     font-weight: bold;
+    font-family: 'Righteous', cursive;
+    text-transform: uppercase;
 }
 .tags{
     text-align: center;
     margin-top: 1%;
     font-weight: normal;
+    font-family: 'Poiret One', cursive;
 }
 .social{
     text-align: center;
